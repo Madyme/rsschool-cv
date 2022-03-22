@@ -1,1 +1,1 @@
-# rsschool-cv
+https://madyme.github.io/rsschool-cv/
