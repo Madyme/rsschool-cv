@@ -1,1 +1,1 @@
-https://madyme.github.io/rsschool-cv/cv
+https://madyme.github.io/rsschool-cv/
