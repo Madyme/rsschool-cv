@@ -24,6 +24,14 @@ I have one-year experience of working as a QA engineer at Bellissimo Pizza Inter
 
 ## Code Example
 
+```javascript
+
+function multiply(a, b){
+  return a * b
+}
+
+```
+
 ## Work Experience
 
 QA engineer at Bellissimo Pizza International -> _June 2021 - ongoing_
@@ -35,6 +43,7 @@ Inha University in Tashkent -> _September 2020 - ongoing_
 
 ## Languages
 
+- Uzbek(native)
 - English(advanced)
 - Russian(proficient)
 - Chinese(elementary)
