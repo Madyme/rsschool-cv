@@ -4,10 +4,11 @@
 
 ## Contact Information
 
-email: madinaabdulborieva@gmail.com  
-telegram: [@madyna0477](https://t.me/madyna0477)  
+email: madinaabdulborieva@gmail.com 
 instagram: @m__0477  
+telegram: [@madyna0477](https://t.me/madyna0477)  
 github: [@Mayme](https://github.com/Madyme)
+
 
 ## About myself
 
