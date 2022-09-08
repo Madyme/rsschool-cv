@@ -12,7 +12,7 @@ github: [@Mayme](https://github.com/Madyme)
 
 ## About myself
 
-Currently studying at Inha University in Tashkent as a junior student. I have developed  my interest towards the  world of coding when I was about 17. Started my programming career with web development specifically as a manual QA engineer. Planning to learn backend in near future. Interested in Machine Learning and Artificial Intelligence. In future I see myself working as AI developer!
+Currently studying at Inha University in Tashkent as a junior student. I have developed  my interest towards the  world of coding when I was about 17. Started my programming career with web development specifically as a manual QA engineer. Planning to learn backend in near future. Interested in Machine Learning and Artificial Intelligence. In future I see myself working as AI developer.
 
 ## Skills and Proficiency
 
